@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuestBiliFix</string>
+    <string name="description">Fix Bilibili HD JSON sensor fingerprint crash on Quest 3</string>
+</resources>
