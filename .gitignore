@@ -1,0 +1,11 @@
+/.gradle/
+/.idea/
+*.iml
+/local.properties
+/build/
+/app/build/
+/xposed-api-stubs/build/
+*.apk
+*.aab
+*.jks
+*.keystore
